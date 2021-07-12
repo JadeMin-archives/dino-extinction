@@ -3,4 +3,4 @@
 2. Press ``F12`` or ``Ctrl`` ``Shift`` ``i``.  
 3. Go to the console tab.  
 4. And put ``index.js`` file in the console.  
-5. Eat your spaghetti
+5. Sit down and eat your spaghetti
