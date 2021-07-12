@@ -1,5 +1,5 @@
 # chrome-dinobot
-1. Open the browser.  
+1. Open your browser.  
 3. Run your brain.
 4. Press ``F12`` or ``Ctrl`` ``Shift`` ``i``.  
 5. Go to the console tab.  
