@@ -5,8 +5,5 @@ Go to the console tab.
 And put ``index.js`` file in the console.
 
 
-## Questions
-It doesn't work. Why did you disabled the issue tab? Help me!
-
-i dont know
+## Spaghetti
 stop asking and eat your spaghetti
