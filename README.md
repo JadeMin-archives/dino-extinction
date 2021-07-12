@@ -5,5 +5,5 @@ Go to the console tab.
 And put ``index.js`` file in the console.
 
 
-## Enjoy
+## Spaghetti
 Eat your spaghetti
