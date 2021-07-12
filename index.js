@@ -1,8 +1,8 @@
-/*function confirmReload(isOver){
-    var answer = isOver? confirm(true) :
+function confirmReload(isOver){
+    /*var answer = isOver? confirm(true) :
         confirm(false);
-    if(answer) location.reload();
-}*/
+    if(answer) location.reload();*/
+}
 
 if(!window.dinoBot) {
     var dinoBot = Runner.instance_;
