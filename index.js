@@ -25,4 +25,6 @@ if(!window.dinoBot) {
     setTimeout(function(){
         Runner.instance_.gameEnd();
     }, solvedTime);
-} else confirmReload(false);
+} else {
+    confirmReload(false);
+}
