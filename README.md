@@ -1,7 +1,7 @@
 # Chrome Dinobot  
 [Chrome DinoGame](chrome://dino/) cheats works 2022 hindi  
 
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](https://github.com/JadeMin/chrome-dinobot/LICENSE)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](/LICENSE)
 
 ---
 
