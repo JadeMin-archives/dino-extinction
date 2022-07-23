@@ -1,7 +1,7 @@
 # Chrome Dinobot  
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](/LICENSE)  
 
-chrome dinogame cheat works 2077 hindi क्रोम डाइनो गेम धोखा  
+chrome dinogame cheat works 2077 hindi क्रोम डाइनो गेम धोखा देती है  
 
 ---
 
