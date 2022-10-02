@@ -5,8 +5,8 @@ function confirmReload(isOver){
 }
 
 if(!window.dinoBot) {
-    var dinoBot = Runner.instance_;
-    var endTime = 6,
+    let dinoBot = Runner.instance_;
+    let endTime = 6,
         solvedTime = endTime * 1000;
     dinoBot.gameEnd = dinoBot.gameOver;
     dinoBot.gameOver = function(){};
